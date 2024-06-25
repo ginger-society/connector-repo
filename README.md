@@ -1,0 +1,1 @@
+This is a repo based meta data service. We can use it in different CI pipelines to update this repo
