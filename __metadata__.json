@@ -1,3 +1,12 @@
 {
-  "services": ["account", "iam"]
+  "services": [
+    {
+      "name": "account",
+      "description": "Account service for enabling and disabling features"
+    },
+    {
+      "name": "identity",
+      "description": "Identity service for issuing JWT token"
+    }
+  ]
 }

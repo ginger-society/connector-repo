@@ -1,8 +1,6 @@
 {
   "kind": "service",
   "meta": {
-    "id": 1,
-    "name": "account",
     "prod_url": "http://localhost:9001",
     "prod_schema_url": "/swagger/?format=openapi",
     "stage_url": "http://localhost:9001",
