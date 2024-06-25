@@ -1,11 +1,11 @@
 {
   "services": [
     {
-      "name": "Account",
+      "name": "ServiceOne",
       "description": "Account service for enabling and disabling features"
     },
     {
-      "name": "Identity",
+      "name": "ServiceTwo",
       "description": "Identity service for issuing JWT token"
     }
   ]
