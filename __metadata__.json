@@ -1,4 +1,7 @@
 {
-  "version": "0.0.1",
-  "services": ["ServiceOne", "ServiceTwo"]
+  "services": [
+    "ServiceOne",
+    "ServiceTwo"
+  ],
+  "version": "0.1.0-nightly.0"
 }
