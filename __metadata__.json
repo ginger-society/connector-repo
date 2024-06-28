@@ -1,51 +1,54 @@
 {
-  "services": ["ServiceOne", "ServiceTwo"],
+  "services": [
+    "ServiceOne",
+    "ServiceTwo"
+  ],
   "templates": [
     {
-      "short_name": "Backend - Python - GingerDJ",
       "description": "Microservice template using GingerDJ framework",
+      "short_name": "Backend - Python - GingerDJ",
       "url": "https://github.com/ginger-society/template-backend-ginger-dj"
     },
     {
-      "short_name": "Backend - Rust - Rocket",
       "description": "Using Rocket Framework with Diesel as ORM",
+      "short_name": "Backend - Rust - Rocket",
       "url": "https://github.com/ginger-society/template-backend-rust"
     },
     {
-      "short_name": "Backend - TypeScript - KoaJS",
       "description": "A fast, Typesafe API project using TypeORM",
+      "short_name": "Backend - TypeScript - KoaJS",
       "url": "https://github.com/ginger-society/template-backend-koa-js"
     },
     {
-      "short_name": "Backend - Python - FastAPI",
       "description": "Microservice in FastAPI framework using SQLAlchemy as ORM",
+      "short_name": "Backend - Python - FastAPI",
       "url": "https://github.com/ginger-society/backend-fastapi-template"
     },
     {
-      "short_name": "Frontend - ReactJS - NextJS",
       "description": "Write end to end TypeSafe Frontend pages using NextJS with Page Router",
+      "short_name": "Frontend - ReactJS - NextJS",
       "url": "https://github.com/ginger-society/template-nextjs"
     },
     {
-      "short_name": "Frontend - SPA ReactJS - Vite",
       "description": "Best way to create Single Page Applications in React",
+      "short_name": "Frontend - SPA ReactJS - Vite",
       "url": "https://github.com/ginger-society/template-vite-react-spa"
     },
     {
-      "short_name": "JavaScript Library",
       "description": "Build and deploy reusable utility / helper functions library in JavaScript and deploy on NPM",
+      "short_name": "JavaScript Library",
       "url": "https://github.com/ginger-society/template-js-library"
     },
     {
-      "short_name": "Python Library",
       "description": "Create reusable Python library and deploy on PyPi",
+      "short_name": "Python Library",
       "url": "https://github.com/ginger-society/template-python-library"
     },
     {
-      "short_name": "React UI Library",
       "description": "Build reusable React Component Library and deploy on NPM",
+      "short_name": "React UI Library",
       "url": "https://github.com/ginger-society/template-react-ui-library"
     }
   ],
-  "version": "0.4.0-nightly.0"
+  "version": "0.5.0-nightly.0"
 }

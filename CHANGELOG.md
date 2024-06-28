@@ -1,6 +1,13 @@
+## 0.5.0-nightly.0 - 2024-06-28
+feat:
+ - [c6d6db54b3](c6d6db54b357193e613e4db009ed6d88494320d0) (Ginger Society Admin) feat: added templates
+	
 ## 0.4.0-nightly.0 - 2024-06-28
 feat:
  - [afb3135f8d](afb3135f8d53f8e3bbbfb9c568d813868a68a792) (Ginger Society Admin) feat: removed the concept of metadata for a service
+	
+chore:
+ - [5ebd403c8f](5ebd403c8ff277038fa368ceecb09fe8fc5e1e60) (Ginger Society Admin) chore: version bump to 0.4.0-nightly.0
 	
 ## 0.3.0-nightly.0 - 2024-06-28
 chore:
